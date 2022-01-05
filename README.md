@@ -23,7 +23,12 @@
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/916BGAI/916BGAI@v1.0.3/github-contribution-grid-snake.svg" /></div>
-<br><br>
+<br>
+<br>
+
+<h1 align="center">
+  
+</h1>
 
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
