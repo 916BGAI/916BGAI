@@ -1,1 +1,3 @@
-![](http://antzuhl.cn:4000/get/@916BGAI.readme)
+![:name](https://count.getloli.com/get/@916BGAI?theme=rule34)
+<br>
+![:name](https://count.getloli.com/get/@916BGAI?theme=gelbooru)
