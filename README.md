@@ -94,59 +94,30 @@
 <br>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=916BGAI&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center">
+	<img  src="https://github-profile-trophy.vercel.app/?username=916BGAI&theme=gruvbox&no-frame=true&no-bg=true" />
+</div>
 <br>
 
-<table width="800px" align="center">
-<tr>
-<td valign="top" width="50%">
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=916BGAI&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=916BGAI&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+<br>
 
-#### 🏊‍♂️ <a href="https://gist.github.com/JasonkayZK/59ead22758ee823e48b558d3cff332f1" target="_blank">Weekly Development Breakdown</a>
+<!-- GitHub Activity Graph -->
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=916BGAI&theme=xcode" /></div>
+<br>
 
-<!-- code_time starts -->
+<h1 align="center">
+</h1>
+<br>
+<br>
 
-```text
-Go         11 hrs 52 mins ████████▊░░░░░░░░░░░░  41.9%
-Rust       11 hrs 45 mins ████████▋░░░░░░░░░░░░  41.5%
-Markdown   3 hrs 42 mins  ██▋░░░░░░░░░░░░░░░░░░  13.1%
-YAML       24 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-SQL        21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-```
-
-<!-- code_time ends -->
-</td>
-
-<td valign="top" width="50%">
-
-#### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
-
-<!-- blog starts -->
-* <a href='https://jasonkayzk.github.io/2021/11/09/%E4%BD%BF%E7%94%A8C++%E8%A7%A3%E9%87%8A%E5%99%A8Cling/' target='_blank'>使用C++解释器Cling</a> - 2021-11-09
-* <a href='https://jasonkayzk.github.io/2021/11/09/%E5%AE%89%E8%A3%85JupyterLab/' target='_blank'>安装JupyterLab</a> - 2021-11-09
-* <a href='https://jasonkayzk.github.io/2021/10/31/%E4%BD%BF%E7%94%A8K8S%E9%83%A8%E7%BD%B2%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84Go%E5%BA%94%E7%94%A8/' target='_blank'>使用K8S部署最简单的Go应用</a> - 2021-10-31
-* <a href='https://jasonkayzk.github.io/2021/10/22/%E6%8E%A7%E5%88%B6Goroutine%E6%95%B0%E9%87%8F%E7%9A%84%E6%96%B9%E6%B3%95/' target='_blank'>控制Goroutine数量的方法</a> - 2021-10-22
-* <a href='https://jasonkayzk.github.io/2021/10/20/Rust%E4%B8%AD%E7%9A%84PhantomType/' target='_blank'>Rust中的PhantomType</a> - 2021-10-20
-<!-- blog ends -->
-
-</td>
-</tr>
-
-</table>
-
-
-|![](https://github-readme-stats.vercel.app/api?username=jasonkayzk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
-
-
-![](https://activity-graph.herokuapp.com/graph?username=jasonkayzk&theme=redical)
-
-
-<p align="center">
-<a href="https://chat.getloli.com/room/@JasonkayZK?title=JasonkayZK-chatroom"><img src="https://chat.getloli.com/room/@JasonkayZK/svg?width=750&height=340&limit=20&theme=light&title=JasonayZK@github:%20~&fontSize=13"></a>
-</p>
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jasonkayzk/count.svg" />
-</p>
+<!-- BiliBili和Github数据 -->
+<div align="center">
+  <a href="https://space.bilibili.com/104964701/"><img src="https://stats.justsong.cn/api/bilibili/?id=104964701"/></a>
+  <a href="https://github.com/916BGAI"><img src="https://stats.justsong.cn/api/github?username=916BGAI"/></a>
+</div>
+<br>
