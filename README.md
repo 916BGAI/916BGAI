@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://kjlsai.xyz/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22)&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22)&center=true&size=24">
   </a>
 </h1>
 
